@@ -1,5 +1,5 @@
 # ttgo_beam_grafanatracker
-Conectiong to InfluxDB cloud
+Connection to InfluxDB cloud
 
 
 This app is used to connect to the Xavier Florensa  https://github.com/xavierflorensa/TTGO-t-Beam-to-InfluxDB-cloud20
